@@ -13,10 +13,10 @@ This is a deobfuscator tool for BitMono (https://github.com/sunnamed434/BitMono)
 ## Proof
 
 Before
-![dnSpy-x86_4oGMfukmHO](https://github.com/Yeetret/BitCleaner/assets/122463441/ef13172e-2a57-4c86-967d-435956f9badb)
+![Before](https://github.com/Yeetret/BitCleaner/b.png)
 
 After
-![dnSpy-x86_aX4Kou9wEM](https://github.com/Yeetret/BitCleaner/assets/122463441/1857de63-6c6f-40ce-8db5-f92aef293c4d)
+![After](https://github.com/Yeetret/BitCleaner/a.png)
 
 
 
